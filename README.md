@@ -13,7 +13,7 @@ In the app users will be able to manage grocery shopping smartly by getting reco
 
 Our solution can be easily implemented to existing K-Group mobile application.
 
-**[Frontend repository](https://github.com/Kashifalikhan/WasteReduction_Front)**
+**[Frontend repository](https://github.com/kashifalikhan36/WasteReduction_Front)**
 
 # Images
 
